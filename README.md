@@ -37,7 +37,7 @@ A `requirements.txt` file is provided for easy installation.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/tejash09/NNDL_ASSIG.git)
+    git clone https://github.com/tejash09/NNDL_ASSIG.git
     cd NNDL_ASSIG
     ```
 
